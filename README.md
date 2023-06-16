@@ -13,3 +13,7 @@ Above the what the interface look like. You can further develop these two textbo
 cd /path/to/your/stable-diffusion-webui/extensions
 git clone https://github.com/Wangshengyang2004/GPT3.5-api-plugin-for-Stable-Diffusion-Webui.git
 ```
+
+2. Go to scripts folder, edit config_private.py, replace the key with your GPT3.5 key
+
+3. You can launch your webui. The plugin will appear on your WebUI.
