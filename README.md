@@ -1,5 +1,5 @@
 # GPT3.5-api-plugin-for-Stable-Diffusion-Webui
-### My intention to create this plugin is because current there is no other plugins can act as a small widget in Stabel Diffusion WebUI
+### My intention to create this plugin is because currently there is no other plugins can act as a small widget in Stabel Diffusion WebUI
 Main function of this plugin is to give you access to Chatgpt 3.5 using API built-in. I have completed basic functionalities.
 
 ![Demo](https://github.com/Wangshengyang2004/GPT3.5-api-plugin-for-Stable-Diffusion-Webui/blob/main/example.png)
@@ -21,5 +21,5 @@ git clone https://github.com/Wangshengyang2004/GPT3.5-api-plugin-for-Stable-Diff
 
 # Credit to ...
 I'm just a beginner in coding, so I have to absorb some useful coding example from others' coding. Thanks to these two projects, I learned a lot from you :)
-https://github.com/Rituraj-commits/ChatGPT-Gradio
-https://github.com/imrayya/stable-diffusion-webui-Prompt_Generator
+* https://github.com/Rituraj-commits/ChatGPT-Gradio
+* https://github.com/imrayya/stable-diffusion-webui-Prompt_Generator
