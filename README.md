@@ -15,7 +15,7 @@ git clone https://github.com/Wangshengyang2004/GPT3.5-api-plugin-for-Stable-Diff
 ```
 
 2. Go to scripts folder, edit config_private.py, replace the key with your GPT3.5 key
-
+* You may also need to edit the stable-webui-gpt3.5api.py to set the http_proxy and https_proxy if you're in network-restrictioned regions like mainland China. Otherwise you will only get timeout result :(
 3. You can launch your webui. The plugin will appear on your WebUI.
 
 
