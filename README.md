@@ -17,3 +17,9 @@ git clone https://github.com/Wangshengyang2004/GPT3.5-api-plugin-for-Stable-Diff
 2. Go to scripts folder, edit config_private.py, replace the key with your GPT3.5 key
 
 3. You can launch your webui. The plugin will appear on your WebUI.
+
+
+# Credit to ...
+I'm just a beginner in coding, so I have to absorb some useful coding example from others' coding. Thanks to these two projects, I learned a lot from you :)
+https://github.com/Rituraj-commits/ChatGPT-Gradio
+https://github.com/imrayya/stable-diffusion-webui-Prompt_Generator
